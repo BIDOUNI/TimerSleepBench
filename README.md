@@ -16,6 +16,7 @@ To run the project, run the file `start.cmd` press `ENTER` and wait a long momen
 
 At the end of the script, you will see the lowest average beyond 5100/5000.
 
+### Other
 
 Script made by @BIDOUNI on Github or @KINGBOUDINI on twitter.
 
