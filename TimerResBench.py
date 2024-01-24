@@ -10,7 +10,7 @@ meilleure_moyenne = float('inf')
 STR_executable = r"C:\bin\setup\STR.exe"
 MeasureSleep_executable = r"C:\bin\setup\MeasureSleep.exe"
 
-print(f"Ignore \"Resolution set to: x ms\" its fake value.")
+print(f"Ignore \"Resolution set to: x ms\" its wrong value.")
 print(f"MAKE SURE TO CLOSE ALL APPLICATIONS BEFORE RUNNING THIS SCRIPT AND CLOSE YOUR ACTUAL TIMER RESOLUTION (SERVICE TOO).")
 print(f"The process will be very very long, so be patient.")
 print()
