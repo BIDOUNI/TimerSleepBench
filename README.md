@@ -18,6 +18,6 @@ At the end of the script, you will see the lowest average between 5100/5000.
 
 ### Other
 
-Script made by @BIDOUNI on Github or [@KINGBOUDINI](https://x.com/kingboudini?s=21&t=FQ--r4UQkLw5ylzSzx8q7w)on twitter.
+Script made by @BIDOUNI on Github or [@KINGBOUDINI](https://x.com/kingboudini?s=21&t=FQ--r4UQkLw5ylzSzx8q7w) on twitter.
 
 If there are any problems with the script, open an issue
